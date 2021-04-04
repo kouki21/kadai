@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>chapter3_exercise.html</title>
+    <link rel="stylesheet" href="chapter.css"/>
+  </head>
+
+  <body>
+    <a>最高に気持ちがいい</a>
+    <p class="red-word">ここだけ赤くしたい</p>
+  </body>
+</html>
